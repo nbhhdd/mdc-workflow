@@ -1,0 +1,12 @@
+{
+  "name": "mdc-workflow",
+  "version": "2.0.0",
+  "description": "Multi-Document Co-driven workflow for AI-assisted development. Establishes TS-Protocol timestamp closed-loop, task-to-document routing, and self-reflection quality checks. Supports Chinese and English. 多文档协同智能体工作流——时间戳闭环+按需路由+自反思校验，支持中英文。",
+  "author": {
+    "name": "Buddy AI Team"
+  },
+  "homepage": "https://github.com/nbhhdd/mdc-workflow",
+  "repository": "https://github.com/nbhhdd/mdc-workflow",
+  "license": "MIT",
+  "keywords": ["documentation", "workflow", "ai-collaboration", "project-management", "code-quality", "chinese", "multi-language"]
+}
